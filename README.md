@@ -4,6 +4,7 @@
 
 The repository is divider into folders and a readme. Each folder has a .py file that contains the solution and sometimes a markdown file with some tags and some notes.
 
-| Sr. No. | Question Name | Question Link                          | Folder Name |
-| ------- | ------------- | -------------------------------------- | ----------- |
-| 1)      | Two Sum       | https://leetcode.com/problems/two-sum/ | two_sum     |
+| Sr. No. | Question Name             | Question Link                                           | Folder Name               |
+| ------- | ------------------------- | ------------------------------------------------------- | ------------------------- |
+| 1)      | Two Sum                   | https://leetcode.com/problems/two-sum/                  | two_sum                   |
+| 2)      | Container with most water | https://leetcode.com/problems/container-with-most-water | container_with_most_water |
